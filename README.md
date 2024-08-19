@@ -1,2 +1,2 @@
 # Simple-Card
-A basic Simple Card using HTML and CSS. 
+A Simple Card using HTML and CSS. 
