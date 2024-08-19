@@ -1,0 +1,45 @@
+body{
+  background-color: grey;
+  margin: 0;
+  padding:0;
+  
+}
+.container{
+  background-color: whitesmoke;
+  width: 400px;
+  height: 600px;
+  margin: 100px 100px;
+  border-radius: 7px;
+}
+.image{
+  padding: 5px;
+  border-radius: 5px;
+}
+img{
+  border-radius: 5px;
+}
+.capsules{
+  margin-top: 5px;
+}
+span{
+  
+  margin-left: 5px;
+  padding: 7px 15px;
+  border: 1px solid lightgrey;
+  border-radius: 15px;
+}
+.content{
+  margin-left: 12px;
+  margin-right: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+  text-align: center;
+}
+button{
+  padding: 7px 15px;
+  border:none;
+  border-radius: 20px;
+    background-color: skyblue;
+color: blue;
+}
